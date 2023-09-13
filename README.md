@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi, I'm Justyna 👋
+- 🎓 knowledge hungry Java Software Developer and Applied Computer Science student.
+- 🔭 I’m currently working on projects based on Java and Spring Frameworks at Nokia Solutions
+- 🌱 I’m currently developing my skills on building a Full Stack web appliaction with React and Java Spring Boot
+- 📫 How to reach me: jstank4822@gmail.com
 <!--
 **JustynaStankiewicz/JustynaStankiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
