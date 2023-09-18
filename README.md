@@ -8,7 +8,6 @@
 <img align="left" alt="Java" height="40px" src="https://github.com/JustynaStankiewicz/JustynaStankiewicz/blob/main/img/java.png"/>
 <img align="left" alt="Spring" height="40px" src="https://github.com/JustynaStankiewicz/JustynaStankiewicz/blob/main/img/spring.png"/>
 <img align="left" alt="Hibernate" height="40px" src="https://github.com/JustynaStankiewicz/JustynaStankiewicz/blob/main/img/hibernate.png"/>
-<img align="left" alt="Sql" height="40px" src="https://github.com/JustynaStankiewicz/JustynaStankiewicz/blob/main/img/sql.png"/>
 <img align="left" alt="IntelliJ" height="40px" src="https://github.com/JustynaStankiewicz/JustynaStankiewicz/blob/main/img/intellij.png"/>
 <img align="left" alt="Linux" height="40px" src="https://github.com/JustynaStankiewicz/JustynaStankiewicz/blob/main/img/linux.png"/>
 <!--
