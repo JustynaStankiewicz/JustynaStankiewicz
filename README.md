@@ -2,7 +2,7 @@
 - 🎓 knowledge hungry Java Software Developer and Applied Computer Science student.
 - 🔭 I’m currently working on projects based on Java and Spring Frameworks at Nokia Solutions
 - 🌱 I’m currently developing my skills on building a Full Stack web appliaction with React and Java Spring Boot
-- 📫 How to reach me: jstank4822@gmail.com
+- 📫 How to reach me: justyna.stankiewicz711@gmail.com
 
 ### Languages and Tools
 <img align="left" alt="Java" height="40px" src="https://github.com/JustynaStankiewicz/JustynaStankiewicz/blob/main/img/java.png"/>
