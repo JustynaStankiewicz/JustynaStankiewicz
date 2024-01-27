@@ -1,7 +1,8 @@
 ### Hi, I'm Justyna 👋
-- 🎓 knowledge hungry Java Software Developer and Applied Computer Science student.
+- 💻 Innovative Software Engineer with a Bachelor's degree in Computer Science, specializing in application development
 - 🔭 I’m currently working on projects based on Java and Spring Frameworks at Nokia Solutions
-- 🌱 I’m currently developing my skills on building a Full Stack web appliaction with React and Java Spring Boot
+- 🌱 I’m currently developing my skills on building a Full Stack web appliaction with React, Java and Spring
+- 🧐 Additional expertise includes Agile methodologies, ability to quickly grasp concepts, analyze problems and provide clean and efficient code.
 - 📫 How to reach me: justyna.stankiewicz711@gmail.com
 
 ### Languages and Tools
